@@ -1,18 +1,36 @@
-# Welcome to My GitHub Profile!
+# 👋 Hey there, I’m Nazeya!
 
-Hi, I'm Nazeya Nehal 👋  
-A passionate software developer interested in machine learning, scientific computing, and open-source contributions.
+I’m a final-year Electronics and Communication Engineering student with a strong passion for technology, software, and AI. I love building projects that solve real-world problems and experimenting with new tools.
 
-## 🌱 I’m currently learning:
-- Gen AI
-- Advanced algorithms for scientific computing
+## 🌟 Current Interests
+- Generative AI & NLP
+- Chatbot development
+- Python, Java, and data structures & algorithms
+- IoT & sensor networks
+- Digital watermarking & image processing
 
+## 🚀 Ongoing Projects
+- **LawChat Bot** — an AI-powered legal assistant
+- **Digital Watermarking** — protecting X-ray images with hidden data
+- **Smart Soil Moisture Monitoring** — wireless sensor networks for agriculture
 
-## 💻 Tech Stack:
-- Languages: Python, Java, C
-- Tools: Git, Jupyter, VS Code
+## 🛠️ Tech Stack
+- **Languages**: Python, Java, C, C++
+- **ML/NLP**: scikit-learn, SBERT
+- **Embedded**: Arduino, NRF24L01
+- **Web/App**: HTML, CSS, Android basics
+- **Tools**: Git, GitHub, VS Code, Google Colab
 
-## 📈 GitHub Stats:
-![Nazeya Nehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazeyanehal&show_icons=true)
+## 📈 GitHub Stats
+![Nazeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazeyanehal&show_icons=true&theme=radical)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nazeya-nehal) or explore my repositories on [GitHub](https://github.com/nazeyanehal)!
+## 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/nazeyanehal)
+
+> _“Building technology to solve real-world problems.”_
+
+---
+
+<!--
+**nazeyanehal/nazeyanehal** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
