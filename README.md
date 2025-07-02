@@ -10,9 +10,7 @@ I’m a final-year Electronics and Communication Engineering student with a stro
 - Digital watermarking & image processing
 
 ## 🚀 Ongoing Projects
-- **LawChat Bot** — an AI-powered legal assistant
 - **Digital Watermarking** — protecting X-ray images with hidden data
-- **Smart Soil Moisture Monitoring** — wireless sensor networks for agriculture
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, Java, C, C++
