@@ -25,7 +25,7 @@ I’m a final-year Electronics and Communication Engineering student with a stro
 ![Nazeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazeyanehal&show_icons=true&theme=radical)
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/nazeyanehal)
+- [LinkedIn](https://www.linkedin.com/in/nazeya-nehal/)
 
 > _“Building technology to solve real-world problems.”_
 
